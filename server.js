@@ -1,3 +1,5 @@
+//  server.js starting point of backend
+
 const express = require('express');
 const app = require('./App');
 const {connectDB} = require('./config/ConnectDB')

@@ -1,3 +1,5 @@
+// leaderboardController.js
+
 const User = require('../models/userModel');
 
 const getWinnners = async(req, res) => {
